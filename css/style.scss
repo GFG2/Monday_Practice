@@ -1,0 +1,13 @@
+body{
+  margin: 0 auto;
+  padding: 0;
+  overflow-x: hidden;
+  display: flex;
+  .wrap{
+    width: 700px;
+    background-color: #ffff41;
+  }
+  li{
+    text-decoration: none;
+  }
+}

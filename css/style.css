@@ -1,0 +1,12 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  overflow-x: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  body .wrap {
+    width: 700px;
+    background-color: #ffff41; }
+  body li {
+    text-decoration: none; }
