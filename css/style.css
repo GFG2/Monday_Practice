@@ -6,7 +6,7 @@ body {
   display: -ms-flexbox;
   display: flex; }
   body .wrap {
-    width: 700px;
+    width: 70px;
     background-color: #ffff41; }
   body li {
     text-decoration: none; }
